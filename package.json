@@ -1,0 +1,18 @@
+
+{
+  "name": "registration-app",
+  "version": "1.0.0",
+  "description": "A simple registration form using Node.js and MongoDB",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^7.0.1"
+  },
+  "author": "",
+  "license": "ISC"
+}
